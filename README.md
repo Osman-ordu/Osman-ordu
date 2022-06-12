@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi, there I'm Osman.:blush:
 
-<!--
-**Osman-ordu/Osman-ordu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end Developer | BilgeAdam Technologies Intern
 
-Here are some ideas to get you started:
+<img src="https://p4.wallpaperbetter.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg" width="400" height="250" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="orange"> Coffee coffee is how I keep up with < /code>
+</font>
+
+### <h2> Reach out to me </h2>
+<br>
+
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][medium]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
+
+<br>
+<br>
+
+### <h2> Teach I Use </h2>
+<br>
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+
+
+<details><summary>
+:bulb: GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&theme=dark">
+</summary></details>
+<details><summary>
+:bulb:Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&layout=compact)](https://github.com/Osman-ordu/github-readme-stats">
+</summary></details>
+
+
+[linkedin]:https://www.linkedin.com/in/osmanordutr/
+[twitter]:https://twitter.com/orduosmann
+[medium]:https://medium.com/@orduosmann
+
