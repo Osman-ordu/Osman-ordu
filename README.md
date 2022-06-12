@@ -29,10 +29,10 @@
 
 
 <details><summary>
-:bulb: GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&theme=dark">
+GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&theme=dark">
 </summary></details>
 <details><summary>
-:bulb:Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&layout=compact)](https://github.com/Osman-ordu/github-readme-stats">
+Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&layout=compact)](https://github.com/Osman-ordu/github-readme-stats">
 </summary></details>
 
 
