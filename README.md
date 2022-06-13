@@ -4,7 +4,7 @@
 
 <img src="https://p4.wallpaperbetter.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg" width="400" height="250" align="right">
 
-<font color="orange"> Coffee coffee is how I keep up with < /code>
+<font>There is nothing permanent except change. < /code>
 </font>
 
 ### <h2> Reach out to me </h2>
@@ -29,9 +29,9 @@
 
 
 
-  <summary>GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&theme=dark"></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&theme=dark">
 
-  <summary>Most Used Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&layout=compact"></summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&layout=compact">
  
 
 
