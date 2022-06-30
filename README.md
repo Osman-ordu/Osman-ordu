@@ -2,11 +2,6 @@
 
 ## Front-end Developer | BilgeAdam Technologies Intern
 
-![streetcomputer](https://user-images.githubusercontent.com/92692879/176797187-8c52551d-b297-44aa-8387-157787e28666.jpg)
-
-<font>There is nothing permanent except change. < /code>
-</font>
-
 ### <h2> Reach out to me </h2>
 <br>
 
@@ -30,3 +25,7 @@
 [twitter]:https://twitter.com/orduosmann
 [medium]:https://medium.com/@orduosmann
 
+![streetcomputer](https://user-images.githubusercontent.com/92692879/176797187-8c52551d-b297-44aa-8387-157787e28666.jpg)
+
+<font>There is nothing permanent except change. < /code>
+</font>
