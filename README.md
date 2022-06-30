@@ -2,7 +2,6 @@
 
 ## Front-end Developer | BilgeAdam Technologies Intern
 
-<img src="https://p4.wallpaperbetter.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg" width="400" height="250" align="right">
 ![streetcomputer](https://user-images.githubusercontent.com/92692879/176797187-8c52551d-b297-44aa-8387-157787e28666.jpg)
 
 <font>There is nothing permanent except change. < /code>
