@@ -1,4 +1,4 @@
-### Hi, there I'm Osman.:blush:
+### Hi there I'm Osman.:blush:
 
 ## Front-end Developer | BilgeAdam Technologies Intern
 
