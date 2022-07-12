@@ -1,7 +1,5 @@
 ### Hi there I'm Osman.:blush:
 
-## Front-end Developer | BilgeAdam Technologies Intern
-
 ### <h2> Reach out to me </h2>
 <br>
 
