@@ -1,6 +1,6 @@
 # Hi there I'm Osman.:blush:
 <br>
-https://www.linkedin.com/in/osmanordutr/
+# https://www.linkedin.com/in/osmanordutr/
 <br>
 <br>
 <br>
