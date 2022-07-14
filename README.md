@@ -1,6 +1,5 @@
-<h1> Hi there I'm Osman.:blush: </h1>
+<h1> Hi there I'm Osman.:blush: </h1> https://www.linkedin.com/in/osmanordutr/
 <br />
-# https://www.linkedin.com/in/osmanordutr/
 <br />
 <br />
 <br />
