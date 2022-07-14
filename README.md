@@ -3,12 +3,12 @@ https://www.linkedin.com/in/osmanordutr/
 
 ## <h1> Reach out to me </h1>
 <br>
-<div>
+
 [linkedin]:https://www.linkedin.com/in/osmanordutr/
 [medium]: https://medium.com/@orduosmann/
 [twitter]:https://twitter.com/orduosmann/
 [hackerrank]:https://www.hackerrank.com/orduosmann
-</div>
+
 
 ### <h2> Teach I Use </h2>
 <br>
@@ -19,9 +19,7 @@ https://www.linkedin.com/in/osmanordutr/
 <br>
 <br>
  
-[linkedin]:https://www.linkedin.com/in/osmanordutr/
-[twitter]:https://twitter.com/orduosmann  
-[medium]:https://medium.com/@orduosmann
+
 
 ![streetcomputer](https://user-images.githubusercontent.com/92692879/176797187-8c52551d-b297-44aa-8387-157787e28666.jpg)
 
