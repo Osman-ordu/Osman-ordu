@@ -1,10 +1,10 @@
-Hi there I'm Osman.:blush:
-<br>
+## Hi there I'm Osman.:blush:
+<br />
 # https://www.linkedin.com/in/osmanordutr/
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Frontend Developer  🚀
