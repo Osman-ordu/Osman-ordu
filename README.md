@@ -3,6 +3,12 @@ https://www.linkedin.com/in/osmanordutr/
 
 ## <h1> Reach out to me </h1>
 <br>
+<div>
+[linkedin]:https://www.linkedin.com/in/osmanordutr/
+[medium]: https://medium.com/@orduosmann/
+[twitter]:https://twitter.com/orduosmann/
+[hackerrank]:https://www.hackerrank.com/orduosmann
+</div>
 
 ### <h2> Teach I Use </h2>
 <br>
