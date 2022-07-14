@@ -32,8 +32,14 @@
 <br>
 <br>
 
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Osman-ordu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="osmanordu"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-ordu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="osmanordu"/>
+
+<a href="http://www.github.com/Osman-ordu"><img src="https://github-readme-stats.vercel.app/api?username=efe3506&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="efe3506's GitHub stats" /></a>
+
+<a href="http://www.github.com/Osman-ordu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Osman-ordu&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Osman-ordu"><img src="https://activity-graph.herokuapp.com/graph?username=Osman-ordu&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Osman-ordu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osman-ordu&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br>
 <br>
