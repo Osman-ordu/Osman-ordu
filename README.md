@@ -15,6 +15,7 @@
  <br>
  <br>
 ### 📩 Connect with me:
+orduosmann@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/osmanordutr/
 [medium]: https://medium.com/@orduosmann
