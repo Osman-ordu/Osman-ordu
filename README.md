@@ -1,4 +1,4 @@
-<h1> Hi there I'm Osman.:blush: </h1> https://www.linkedin.com/in/osmanordutr/
+<h1> Hi there I'm Osman.:blush: </h1> 
 <br />
 <br />
 <br />
@@ -10,6 +10,7 @@
 
 ### 📩 Connect with me: <br>
 # orduosmann@gmail.com
+# https://www.linkedin.com/in/osmanordutr/
 
 [linkedin]: https://www.linkedin.com/in/osmanordutr/
 [medium]: https://medium.com/@orduosmann
