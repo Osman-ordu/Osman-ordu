@@ -3,9 +3,7 @@
 ## <h2> Reach out to me </h2>
 <br>
 
-# [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]  
-# [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][medium]
-# [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]    [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][medium]   [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 
 <br>
 <br>
@@ -19,9 +17,7 @@
  
 
 
-# [linkedin]:https://www.linkedin.com/in/osmanordutr/
-# [twitter]:https://twitter.com/orduosmann
-# [medium]:https://medium.com/@orduosmann
+   [linkedin]:https://www.linkedin.com/in/osmanordutr/  [twitter]:https://twitter.com/orduosmann  [medium]:https://medium.com/@orduosmann
 
 ![streetcomputer](https://user-images.githubusercontent.com/92692879/176797187-8c52551d-b297-44aa-8387-157787e28666.jpg)
 
