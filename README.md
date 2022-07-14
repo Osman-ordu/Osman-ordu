@@ -4,13 +4,14 @@ https://www.linkedin.com/in/osmanordutr/
 ## <h1> Reach out to me </h1>
 <br>
 
-[linkedin]:https://www.linkedin.com/in/osmanordutr/
-[medium]: https://medium.com/@orduosmann/
-[twitter]:https://twitter.com/orduosmann/
+[linkedin]:https://www.linkedin.com/in/osmanordutr
+[medium]: https://medium.com/@orduosmann
+[twitter]:https://twitter.com/orduosmann
 [hackerrank]:https://www.hackerrank.com/orduosmann
 
 
 ### <h2> Teach I Use </h2>
+
 <br>
 <br>
 <div>
