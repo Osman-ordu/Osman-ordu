@@ -1,8 +1,4 @@
-<h1> Hi there I'm Osman.:blush: </h1> 
-<br />
-<br />
-<br />
-<br />
+
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
