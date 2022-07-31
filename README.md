@@ -7,6 +7,7 @@
 ### 📩 Connect with me:  <br>
 ## orduosmann@gmail.com
 ## https://www.linkedin.com/in/osmanordutr/
+## https://medium.com/@orduosmann
 
 [linkedin]: https://www.linkedin.com/in/osmanordutr/
 [medium]: https://medium.com/@orduosmann
