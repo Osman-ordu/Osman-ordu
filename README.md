@@ -1,6 +1,6 @@
-I'm a web developer who produces projects that are purely front-end development oriented.
+# I'm a web developer who produces projects that are purely front-end development oriented.
 
-I am currently producing e-commerce focused front-end developments and designs.
+# I am currently producing e-commerce focused front-end developments and designs.
 
 <a href="http://www.github.com/Osman-ordu"><img src="https://activity-graph.herokuapp.com/graph?username=Osman-ordu&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
