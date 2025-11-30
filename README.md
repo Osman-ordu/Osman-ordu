@@ -18,15 +18,27 @@ React/Next.js ekosisteminde component mimarisi, veri yönetimi, UI tutarlılığ
 ---
 
 ## Çalıştığım Proje Tipleri
+
 - **CMS platformları** (modüler yapı, içerik iş akışları, custom components)
+
 - **Payment systems** (checkout flows, gateway entegrasyonları, doğrulama & güvenlik pattern’leri)
+
 - **Cryptocurrency platforms**  
   - Realtime fiyat akışları (WS)  
   - Cüzdan bakiyeleri  
   - Order flow / buy-sell arayüzleri  
   - Performans kritik dashboardlar  
+  
+  - **KYC süreçleri**  
+  - Identity verification UI  
+  - Form validation, stepper flows  
+  - Document upload & status tracking  
+  - Third-party provider entegrasyonları 
+
 - **E-commerce sistemleri** (cart, checkout, stock, filter/search optimizasyonları)
+
 - **Micro-frontend odaklı UI yapıları**
+
 - **High-traffic frontend** (data-heavy dashboard, caching stratejileri)
 
 Bu alanlarda:  
