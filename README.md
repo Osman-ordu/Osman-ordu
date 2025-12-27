@@ -1,70 +1,65 @@
-# Osman Ordu — Frontend Developer
+# Osman Ordu - Software Developer
 
-Karmaşık kullanıcı akışlarını sade, hızlı ve sezgisel arayüzlere dönüştürme konusunda uzmanlaşmış bir Frontend Developer’ım. Önceliğim, kullanıcıların ekranda hissettiği hissiyat: gecikmesiz etkileşimler, tutarlı hareketler ve hem görsel hem de fonksiyonel olarak akışkan bir deneyim.
+I design and build production-grade, high-performance web applications with a strong focus on real-time data, scalability, and system reliability.
 
-Ürettiğim arayüzler yalnızca “çalışan” yapılar değil; gerçek zamanlı veri trafiğini doğru yöneten, yüksek etkileşimli bileşenlerde bile stabil davranan ve kullanıcı geri bildirimine anında tepki verebilen sistemlerdir. Fintech ve e-ticaret tarafında, hata toleransı düşük ekranlarda sorunsuz bir kullanıcı yolculuğu yaratmak en güçlü yönlerimden biri.
+My work centers on latency-sensitive, data-intensive systems where UI stability, performance, and correctness are non-negotiable.
+I specialize in Fintech, Crypto, and high-traffic platforms operating under real-world load.
 
-Yaklaşık dört yıllık profesyonel deneyimimde, özellikle:
+I don’t just ship features —
+I engineer systems that stay fast, predictable, and resilient in production.
 
-gerçek zamanlı fiyat akışları,
-yüksek hacimli işlem süreçleri,
-milisaniye duyarlılığında kullanıcı etkileşimleri,
-komponent tabanlı mimari tasarımı,
-UI davranış analizi ve iyileştirmeleri
+# Core Expertise
 
-üzerine yoğunlaştım. Bir özelliği yalnızca geliştirmek değil, sahada nasıl “hissettirdiğini” iyileştirmek benim için temel motivasyon.
+## Frontend Engineering
 
-Hikayem
+- React, React Native · Next.js (App Router, RSC, SSR / ISR) , Vue2-3
 
-2021’de Python ile başlayan yazılım yolculuğum, kısa sürede yalnızca teknik bir merak olmaktan çıkıp benim için bir üretim disiplinine dönüştü. Farklı alanlardaki deneyimlerimden sonra odağımı tamamen web geliştirmeye vererek freelance projeler almaya başladım. Bu dönemde BilgeAdam Technologies ile yaklaşık 7 ay süren bir B2B proje tamamladım.
+- TypeScript
 
-Teknik altyapımı güçlendirmek ve profesyonel sertifikasyon sağlamak için BilgeAdam Akademi’de ileri seviye eğitim aldım. Ardından Segmentify’da yazılım kariyerimin kurumsal başlangıcını yaptım. Burada kullanıcı davranışı odaklı geliştirme, A/B testlerine göre UI optimizasyonu ve veri odaklı bileşen üretimi gibi güçlü pratikler edindim.
+- Component-driven UI · Design Systems
 
-Fintech dünyasının hız, doğruluk ve güven gerektiren yapısı ilgimi çektiği için PrimeTech’e katıldım. Şu anda kripto para piyasaları, canlı fiyat akışları ve yüksek hassasiyet gerektiren ekranlar üzerinde çalışarak uzmanlık alanımı daha da keskinleştiriyorum.
+- State & Data orchestration: TanStack Query · Redux Toolkit · Zustand · Pinia · Vuex
 
----
+- Realtime UI: WebSocket · SSE
 
-## Yetkinlik Alanlarım
-- **React • Next.js** (App Router, RSC, SSR/ISR)
-- **TypeScript** ağırlıklı geliştirme
-- Component-driven UI • Design Systems
-- State/Data Layer: **TanStack Query • Zustand • RTK**
-- Web performance: Lighthouse, Web Vitals, bundle optimizasyonu
-- Realtime UI: **WebSocket • SSE**
-- API entegrasyonları: REST, GraphQL, streaming data
+- Performance engineering: Web Vitals · Lighthouse · bundle & render optimization
 
----
+- Technical SEO: SSR/ISR strategies · indexing · metadata pipelines
 
-## Çalıştığım Proje Tipleri
+## Backend & Systems
 
-- **CMS platformları** (modüler yapı, içerik iş akışları, custom components)
+- Node.js · Express · REST APIs
 
-- **Payment systems** (checkout flows, gateway entegrasyonları, doğrulama & güvenlik pattern’leri)
+- Prisma ORM · PostgreSQL / MySQL
 
-- **Cryptocurrency platforms**  
-  - Realtime fiyat akışları (WS)  
-  - Cüzdan bakiyeleri  
-  - Order flow / buy-sell arayüzleri  
-  - Performans kritik dashboardlar  
-  
-  - **KYC süreçleri**  
-  - Identity verification UI  
-  - Form validation, stepper flows  
-  - Document upload & status tracking  
-  - Third-party provider entegrasyonları 
+- Authentication, authorization & secure API design
 
-- **E-commerce sistemleri** (cart, checkout, stock, filter/search optimizasyonları)
+- Realtime infrastructure: Socket.IO · WebSocket servers
 
-- **Micro-frontend odaklı UI yapıları**
+- Data validation, rate limiting, fault tolerance
 
-- **High-traffic frontend** (data-heavy dashboard, caching stratejileri)
+## Architecture & Production
 
-Bu alanlarda:  
-- Reusable component mimarisi  
-- Realtime data optimizasyonu  
-- Edge-case yönetimi  
-- Güvenli API iletişimi  
-- Performans odaklı geliştirme  
-konularında uzmanlaştım.
+- Scalable, feature-based system design
+
+- Reusable component & service layers
+
+- Edge-case heavy UI flows
+
+- High-throughput & real-time dashboards
+
+- Maintainability, observability, and long-term scalability
 
 ---
+
+# What I Ship
+
+- Realtime trading & price streaming platforms
+
+- Fintech & crypto interfaces with strict accuracy requirements
+
+- Payment, checkout & identity (KYC) flows
+
+- SEO-critical, performance-focused web applications
+
+- Scalable frontend & backend architectures
